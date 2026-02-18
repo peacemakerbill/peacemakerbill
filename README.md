@@ -1,17 +1,32 @@
-# 👋 Hi, I'm Bill Graham Peacemaker
-
+```{=html}
+<!-- ================= HEADER SECTION ================= -->
+```
+```{=html}
+<h1 align="center">
+```
+Hi 👋, I'm Bill Graham Peacemaker
+```{=html}
+</h1>
+```
 ```{=html}
 <p align="center">
 ```
-`<img src="https://avatars.githubusercontent.com/peacemakerbill" width="180" style="border-radius:50%;" alt="Bull Graham Peacemaker"/>`{=html}
+`<img src="https://github.com/peacemakerbill.png" width="200" style="border-radius:50%;" />`{=html}
 ```{=html}
 </p>
 ```
 ```{=html}
 <p align="center">
 ```
-`<b>`{=html}Enterprise System Developer \| API Integration Specialist \|
-Fintech & Telecom Engineer`</b>`{=html}
+`<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0A66C2&center=true&vCenter=true&width=600&lines=Enterprise+System+Developer;API+Integration+Specialist;Fintech+%26+Telecom+Engineer;Cloud+%26+Enterprise+Architecture+Expert" />`{=html}
+```{=html}
+</p>
+```
+```{=html}
+<p align="center">
+```
+`<strong>`{=html}Building Scalable • Secure • Enterprise-Grade
+Systems`</strong>`{=html}
 ```{=html}
 </p>
 ```
@@ -21,75 +36,31 @@ Fintech & Telecom Engineer`</b>`{=html}
 ## 🚀 About Me
 
 Enterprise-focused developer with **5+ years of experience** designing,
-integrating, and supporting scalable enterprise systems.
-
-I specialize in:
+integrating, and optimizing scalable enterprise systems across fintech,
+telecommunications, and cloud environments.
 
 -   🔗 Enterprise Integrations (REST/SOAP APIs, Microservices)
--   ☁️ Oracle Cloud & Oracle Integration Cloud (OIC)
--   💳 Fintech & Payment Systems (M-PESA API Ecosystem)
+-   ☁️ Oracle Cloud & Google Cloud
+-   💳 Payment Systems & Fintech Architecture
 -   📊 Enterprise Reporting & Analytics
--   🏗️ End-to-End System Architecture
-
-Currently serving as **API Support Engineer (Contracted to Safaricom
-PLC)** where I support enterprise integrations into the M-PESA
-ecosystem.
+-   🏗️ End-to-End System Design & Lifecycle Management
 
 ------------------------------------------------------------------------
 
-## 🏢 Professional Experience
+## 🏆 Professional Highlights
 
-### 🔹 API Support Engineer
-
-**TechSavanna (Contracted to Safaricom PLC)** \| Nairobi, Kenya\
-*Jan 2026 -- Present*
-
--   Primary technical contact for enterprise partners integrating with
-    M-PESA APIs
--   Design & support REST/SOAP integrations
--   Root cause analysis & long-term system fixes
--   Release testing & impact assessments
--   API documentation & integration maps
+-   Primary API integration support engineer for enterprise partners
+-   Designed high-availability REST/SOAP integrations
+-   Performed root cause analysis & system optimization
+-   Conducted impact assessments & release testing
+-   Built scalable backend architectures using Node.js & microservices
+-   Delivered secure IoT and surveillance system integrations
 
 ------------------------------------------------------------------------
 
-### 🔹 Software & Network Engineer (Freelance)
+## 🛠️ Tech Stack
 
-**Backspace Limited** \| Nairobi, Kenya\
-*June 2025 -- Present*
-
--   Built scalable web & mobile applications
--   Designed backend architectures (Node.js, MongoDB)
--   Integrated cloud services & third-party APIs
--   Agile collaboration & technical documentation
-
-------------------------------------------------------------------------
-
-### 🔹 Software Engineer (Contract)
-
-**Hikvision** \| Remote\
-*Jan 2023 -- Oct 2024*
-
--   Security & surveillance system integrations
--   API-based cloud integrations
--   High-availability systems in secure environments
-
-------------------------------------------------------------------------
-
-### 🔹 Software Developer (Contract)
-
-**Dahua Technology** \| Remote\
-*Jan 2023 -- Oct 2024*
-
--   IoT & video surveillance backend systems
--   API-driven real-time monitoring systems
--   Scalable enterprise-grade integrations
-
-------------------------------------------------------------------------
-
-## 🛠️ Enterprise Tech Stack
-
-### 💻 Programming Languages
+### 💻 Languages
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -98,8 +69,6 @@ ecosystem.
 ![C#](https://img.shields.io/badge/CSharp-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-
-------------------------------------------------------------------------
 
 ### 🧩 Frameworks & Platforms
 
@@ -111,30 +80,50 @@ Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=sp
 ![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Next.js](https://img.shields.io/badge/NextJS-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
-------------------------------------------------------------------------
-
-### ☁️ Cloud & Enterprise
+### ☁️ Cloud & DevOps
 
 ![Oracle
 Cloud](https://img.shields.io/badge/Oracle%20Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![Google
 Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ------------------------------------------------------------------------
 
-## 🎓 Education
+## 📊 GitHub Analytics
 
-**BSc in Information & Communication Technology Management**\
-Maseno University \| School of Computing & Informatics
+```{=html}
+<p align="center">
+```
+`<img src="https://github-readme-stats.vercel.app/api?username=peacemakerbill&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />`{=html}
+```{=html}
+</p>
+```
+```{=html}
+<p align="center">
+```
+`<img src="https://github-readme-streak-stats.herokuapp.com/?user=peacemakerbill&theme=tokyonight&hide_border=true" />`{=html}
+```{=html}
+</p>
+```
+```{=html}
+<p align="center">
+```
+`<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=peacemakerbill&layout=compact&theme=tokyonight&hide_border=true" />`{=html}
+```{=html}
+</p>
+```
 
 ------------------------------------------------------------------------
 
-## 📜 Certifications
+## 🎯 Core Domains
 
--   Cisco CCNA\
--   Cisco CyberOps\
--   Cisco IT Essentials
+-   Fintech & Payment Systems\
+-   Telecommunications Infrastructure\
+-   ERP / HCM / SCM Systems\
+-   Enterprise API Integrations\
+-   Cloud Architecture & DevOps
 
 ------------------------------------------------------------------------
 
