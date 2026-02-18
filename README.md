@@ -1,13 +1,5 @@
-```{=html}
-<!-- ================= HEADER SECTION ================= -->
-```
-```{=html}
-<h1 align="center">
-```
-Hi 👋, I'm Bill Graham Peacemaker
-```{=html}
-</h1>
-```
+# 👋 Hi, I'm Bill Graham Peacemaker
+
 ```{=html}
 <p align="center">
 ```
@@ -49,11 +41,11 @@ telecommunications, and cloud environments.
 
 ## 🏆 Professional Highlights
 
--   Primary API integration support engineer for enterprise partners
--   Designed high-availability REST/SOAP integrations
--   Performed root cause analysis & system optimization
--   Conducted impact assessments & release testing
--   Built scalable backend architectures using Node.js & microservices
+-   Primary API Integration Support Engineer for enterprise partners\
+-   Designed high-availability REST/SOAP integrations\
+-   Performed root cause analysis & system optimization\
+-   Conducted impact assessments & release testing\
+-   Built scalable backend architectures using Node.js & microservices\
 -   Delivered secure IoT and surveillance system integrations
 
 ------------------------------------------------------------------------
@@ -70,22 +62,26 @@ telecommunications, and cloud environments.
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
+------------------------------------------------------------------------
+
 ### 🧩 Frameworks & Platforms
 
 ![Spring
-Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Next.js](https://img.shields.io/badge/NextJS-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+
+------------------------------------------------------------------------
 
 ### ☁️ Cloud & DevOps
 
 ![Oracle
-Cloud](https://img.shields.io/badge/Oracle%20Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+Cloud](https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![Google
-Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
@@ -137,4 +133,4 @@ Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&lo
 
 ## ⚡ Philosophy
 
-> "Enterprise systems should be scalable, secure, and seamless."
+> *"Enterprise systems should be scalable, secure, and seamless."*
