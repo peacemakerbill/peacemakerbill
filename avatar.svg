@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="130" height="130">
+  <defs>
+    <clipPath id="circle">
+      <circle cx="65" cy="65" r="65"/>
+    </clipPath>
+  </defs>
+  <image
+    href="https://github.com/peacemakerbill.png"
+    width="130"
+    height="130"
+    clip-path="url(#circle)"
+  />
+</svg>
