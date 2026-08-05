@@ -127,7 +127,7 @@ Cross-platform enterprise mobile applications for field operations teams, includ
 |---|---|---|
 | ![](https://img.shields.io/badge/Oracle_Cloud_Infrastructure-F80000?style=flat-square&logo=oracle&logoColor=white) | Oracle | ![](https://img.shields.io/badge/CERTIFIED-1DA462?style=flat-square) |
 | ![](https://img.shields.io/badge/Google_Cloud_Associate-4285F4?style=flat-square&logo=googlecloud&logoColor=white) | Google | ![](https://img.shields.io/badge/CERTIFIED-1DA462?style=flat-square) |
-| ![](https://img.shields.io/badge/BSc._Computer_Science-181717?style=flat-square) | *[University Name]* | ![](https://img.shields.io/badge/GRADUATE-0A66C2?style=flat-square) |
+| ![](https://img.shields.io/badge/BSc._Computer_Science-181717?style=flat-square) | *MASENO UNIVERSITY-2019-2023* | ![](https://img.shields.io/badge/GRADUATE-0A66C2?style=flat-square) |
 
 ---
 
