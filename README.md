@@ -176,6 +176,22 @@ I'm currently **open to new opportunities** — senior engineering roles, enterp
 
 ---
 
+## ![Support](https://img.shields.io/badge/SUPPORT_MY_WORK-FF6B35?style=flat-square&logoColor=white)
+
+If my projects or open-source contributions have helped you, consider supporting the work ☕
+
+<div align="center">
+
+[![PayPal](https://img.shields.io/badge/PayPal-Buy_Me_a_Coffee-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.com/donate/?business=grahambill011@gmail.com&currency_code=USD)
+&nbsp;
+[![M-Pesa](https://img.shields.io/badge/M--PESA-%2B254_790_613_916-1DA462?style=for-the-badge&logo=safaricom&logoColor=white)](tel:+254790613916)
+
+*M-Pesa: send to* **+254 790 613 916**
+
+</div>
+
+---
+
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=peacemakerbill&color=F7DF1E&style=for-the-badge&label=Profile+Views" />
 </div>
