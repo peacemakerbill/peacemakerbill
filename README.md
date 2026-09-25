@@ -221,7 +221,7 @@ Spring Boot microservice architecture for property management, covering properti
 ---
 
 <h2 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Bebas+Neue&size=32&duration=2500&pause=1000&color=181717&center=true&vCenter=true&width=500&lines=GitHub+Analytics" alt="GitHub Analytics" />
+  <img src="https://readme-typing-svg.demolab.com?font=Bebas+Neue&size=32&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=GitHub+Analytics" alt="GitHub Analytics" />
 </h2>
 
 <div align="center">
