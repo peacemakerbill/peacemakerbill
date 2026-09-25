@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0A66C2&height=250&section=header&text=Bill%20Graham%20Peacemaker&fontSize=40&fontColor=ffffff&fontAlignY=30&desc=Fullstack%20Dev%20%7C%20API%20Integration%20%7C%20Fintech%20%26%20Telecom&descAlignY=52&descSize=16&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0A66C2&height=250&section=header&text=Bill%20Graham%20Peacemaker&fontSize=40&fontColor=ffffff&fontAlignY=30&desc=Fullstack%20Dev%20%7C%20API%20Integration%20%7C%20Fintech%20%2F%20Telecom&descAlignY=52&descSize=16&animation=fadeIn" width="100%"/>
 
 <img src="https://avatars.githubusercontent.com/peacemakerbill?v=4" width="130" style="clip-path:circle();border-radius:50%;-webkit-border-radius:50%;" />
 
