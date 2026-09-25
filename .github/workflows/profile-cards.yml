@@ -18,8 +18,11 @@ jobs:
         uses: Erik-Donath/github-profile-trophy@feature/generate-svg
         with:
           username: peacemakerbill
-          file: dist/trophy.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          output_path: dist/trophy.svg
+          # Requires a classic PAT with the read:user scope, saved as
+          # the TROPHY_TOKEN repo secret — the default GITHUB_TOKEN
+          # doesn't have the scope this action's GraphQL query needs.
+          token: ${{ secrets.TROPHY_TOKEN }}
 
       - name: Generate activity graph SVG
         uses: maurodesouza/github-readme-activity-graph-action@v1
