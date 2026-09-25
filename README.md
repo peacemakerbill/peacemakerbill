@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0A66C2&height=250&section=header&text=Bill%20Graham%20Peacemaker&fontSize=40&fontColor=ffffff&fontAlignY=30&desc=Fullstack%20Dev%20%7C%20API%20Integration%20%7C%20Fintech%20%2F%20Telecom&descAlignY=52&descSize=16&animation=fadeIn" width="100%"/>
 
-<img src="https://avatars.githubusercontent.com/peacemakerbill?v=4" width="130" style="clip-path:circle();border-radius:50%;-webkit-border-radius:50%;" />
+<img src="https://wsrv.nl/?url=avatars.githubusercontent.com/peacemakerbill&w=260&h=260&fit=cover&mask=circle&maxage=7d" width="130" />
 
 <br/>
 
@@ -144,7 +144,7 @@ Spring Boot microservice architecture for property management, covering properti
 ---
 
 <h2 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Bebas+Neue&size=32&duration=2500&pause=1000&color=181717&center=true&vCenter=true&width=450&lines=Tech+Stack" alt="Tech Stack" />
+  <img src="https://readme-typing-svg.demolab.com?font=Bebas+Neue&size=32&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=450&lines=Tech+Stack" alt="Tech Stack" />
 </h2>
 
 <div align="center">
