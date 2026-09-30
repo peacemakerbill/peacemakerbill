@@ -16,7 +16,9 @@
 [![Location](https://img.shields.io/badge/LOCATION-Nairobi%2C_Kenya-1DA462?style=for-the-badge&logo=googlemaps&logoColor=white)](https://github.com/peacemakerbill)
 [![Open to Work](https://img.shields.io/badge/STATUS-Open_to_Work-FF6B35?style=for-the-badge&logo=checkmarx&logoColor=white)](mailto:grahambill011@gmail.com)
 
-<img src="https://komarev.com/ghpvc/?username=peacemakerbill&color=F7DF1E&style=for-the-badge&label=Profile+Views" />
+<a href="https://hits.sh/github.com/peacemakerbill/">
+  <img src="https://hits.sh/github.com/peacemakerbill.svg?style=for-the-badge&label=Profile%20Views&color=0A66C2&labelColor=555555" alt="Profile Views" />
+</a>
 
 </div>
 
